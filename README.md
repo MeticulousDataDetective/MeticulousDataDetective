@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm an Aspiring Data Analyst and Data Scientist
+# 👋 Hi there! I'm Lance Montero; I'm an Aspiring Data Analyst and Data Scientist with a foundation in exploratory and descriptive analysis.
 
 I'm a motivated and detail-oriented beginner in the fields of data analytics and data science. Recently, I completed the **Google Data Analytics Professional Certificate** on Coursera, which gave me a solid foundation in the full data analysis process — from asking the right business questions to delivering actionable insights through visualizations.
 

@@ -37,4 +37,4 @@ As part of the certification, I completed a capstone project involving a fiction
 
 - **Name:** Lance Montero
 - **Email:** [rikkilance.montero@gmail.com](mailto:rikkilance.montero@gmail.com)  
-- **LinkedIn:** *(Add your LinkedIn URL here)*  
+- **LinkedIn:** [linkedin.com/in/lancemontero](https://www.linkedin.com/in/lance-m-096b7b293/)

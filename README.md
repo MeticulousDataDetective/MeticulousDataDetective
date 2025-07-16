@@ -32,6 +32,10 @@ As part of the certification, I completed a capstone project involving a fiction
 - ✅ Reproducible workflow using R and spreadsheets
 
 ---
+### 📛 Certification
+
+- [Google Data Analytics Professional Certificate (via Credly)](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/public_url)
+
 
 ## 📫 Contact Me
 

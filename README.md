@@ -34,7 +34,10 @@ As part of the certification, I completed a capstone project involving a fiction
 ---
 ### 📛 Certification
 
-- [Google Data Analytics Professional Certificate (via Credly)](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/public_url)
+[![Google Data Analytics Badge](https://images.credly.com/size/320x320/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/public_url)
+
+[View my verified Google Data Analytics Professional Certificate on Credly](https://www.credly.com/badges/1bea4a50-26b1-41e3-944a-4e33a09f35b1/public_url)
+
 
 
 ## 📫 Contact Me

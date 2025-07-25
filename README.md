@@ -45,5 +45,5 @@ As part of the certification, I completed a capstone project involving a fiction
 - **Name:** Rikki Lance Montero
 - **Email:** [rikkilance.montero@gmail.com](mailto:rikkilance.montero@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lancemontero) – Connect with me professionally
-- 📛 [Credly](https://www.credly.com/users/lance-montero) – View my verified certifications
+- 📛 [Credly](https://www.credly.com/users/rikki-lance-montero) – View my verified certifications
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/lancemontero) – Explore my interactive dashboards
